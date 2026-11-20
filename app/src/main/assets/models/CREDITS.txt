@@ -1,0 +1,19 @@
+Modelos suministrados por el usuario el 16 de noviembre de 2026.
+Se copian sin modificar la geometría ni las texturas.
+
+triceratops.glb
+Título: Triceratops
+Autor: Gigan_FK (https://sketchfab.com/ericksalinasr07)
+Fuente: https://sketchfab.com/3d-models/triceratops-379f857737564e7eb32f3575d1d1ab26
+Licencia: Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/
+Autor, fuente y licencia extraídos de asset.extras del GLB proporcionado.
+
+trex.glb
+Archivo original: Rampaging T-Rex.glb
+Generador: Microsoft GLTF Exporter 2.8.3.41
+El archivo y su carpeta no incluyen datos de autor o licencia.
+Procedencia: archivo local proporcionado por el usuario; licencia pendiente de documentar.
+
+demo_cube.glb y demo_pyramid.glb
+Geometrías originales de prueba, generadas por tools/generate-demo-models.py.

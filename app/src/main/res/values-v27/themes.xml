@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.DinoAR" parent="Base.Theme.DinoAR">
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

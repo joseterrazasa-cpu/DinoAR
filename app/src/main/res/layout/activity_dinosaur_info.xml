@@ -1,0 +1,26 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="vertical" android:padding="24dp">
+        <TextView android:id="@+id/collection" style="@style/Caption" android:text="@string/collection" android:layout_marginTop="24dp" />
+        <TextView android:id="@+id/name" style="@style/Heading" android:layout_marginTop="16dp" />
+        <TextView style="@style/Caption" android:text="@string/scientific_name_label" android:layout_marginTop="16dp" />
+        <TextView android:id="@+id/scientificName" style="@style/Body" android:textStyle="italic" />
+        <ImageView android:layout_width="match_parent" android:layout_height="140dp"
+            android:src="@drawable/fossil" android:importantForAccessibility="no" />
+        <TextView style="@style/Caption" android:text="@string/period_label" android:layout_marginTop="24dp" />
+        <TextView android:id="@+id/period" style="@style/Body" />
+        <TextView style="@style/Caption" android:text="@string/diet_label" android:layout_marginTop="24dp" />
+        <TextView android:id="@+id/diet" style="@style/Body" />
+        <TextView style="@style/Caption" android:text="@string/length_label" android:layout_marginTop="24dp" />
+        <TextView android:id="@+id/length" style="@style/Body" />
+        <TextView android:id="@+id/description" style="@style/Body" android:layout_marginTop="24dp" />
+        <TextView style="@style/Caption" android:text="@string/features_label" android:layout_marginTop="24dp" />
+        <TextView android:id="@+id/features" style="@style/Body" />
+        <TextView android:id="@+id/source" style="@style/Caption" android:layout_marginTop="24dp" android:autoLink="web" />
+        <TextView android:id="@+id/modelCredit" style="@style/Caption" android:layout_marginTop="16dp" android:autoLink="web" />
+        <com.google.android.material.button.MaterialButton android:id="@+id/back"
+            style="@style/PrimaryButton" android:text="@string/back_camera" android:layout_marginTop="32dp" />
+    </LinearLayout>
+</ScrollView>

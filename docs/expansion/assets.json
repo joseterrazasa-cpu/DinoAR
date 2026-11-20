@@ -1,0 +1,119 @@
+{
+  "pachycephalosaurus": {
+    "center": [
+      -0.2834248559580897,
+      1.0580423908316028,
+      -0.3250488923696404
+    ],
+    "halfExtent": [
+      0.7899105583775465,
+      1.058637726551645,
+      1.7028141487962507
+    ],
+    "vertices": 14193,
+    "triangles": 26112,
+    "animationCount": 21,
+    "asset": {
+      "extras": {
+        "author": "Ferocious Industries (https://sketchfab.com/ferociousindustries.matthias)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/pbr-pachycephalasaurus-animated-6eea5cee4afa4730bf75c6329a43e56d",
+        "title": "PBR Pachycephalasaurus (Animated)"
+      },
+      "generator": "Sketchfab-16.16.0",
+      "version": "2.0"
+    },
+    "modelSha256": "74a42214c155a2ac07642cffc9a1fa207e4107c6d238381e878a3e17be46c808",
+    "markerSha256": "51904b1fd19c4ad2daf9dbcf899706a05a2f61cb6c8e32326f1fa80bed855585"
+  },
+  "mosasaurus": {
+    "center": [
+      -1.741449393022343e-08,
+      0.008541625766022829,
+      -0.14962451741360705
+    ],
+    "halfExtent": [
+      0.0780794089646789,
+      0.041031313563440155,
+      0.2558325589832533
+    ],
+    "vertices": 10985,
+    "triangles": 18700,
+    "animationCount": 1,
+    "asset": {
+      "extras": {
+        "author": "Alexey Zaika (https://sketchfab.com/lexazaixa25)",
+        "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+        "source": "https://sketchfab.com/3d-models/mosasaurus-684754a2ad8c46aca0634326b53d1f04",
+        "title": "Mosasaurus"
+      },
+      "generator": "Sketchfab-0.6.0",
+      "version": "2.0"
+    },
+    "modelSha256": "2b35430766a54c78dd5f665e50f68ddb06bf89a31c793e2dbc36bcba1ff0064e",
+    "markerSha256": "dbb981c0f87aba44c01cafa2d706529565980a43f0ac377d0fb074f46e213efa"
+  },
+  "dimorphodon": {
+    "center": [
+      0.0018139774219960714,
+      0.1850273234359826,
+      -5.75940565801769
+    ],
+    "halfExtent": [
+      12.942789867629203,
+      1.4076540348750557,
+      10.907496903816355
+    ],
+    "vertices": 9048,
+    "triangles": 15135,
+    "animationCount": 1,
+    "asset": {
+      "generator": "Khronos glTF Blender I/O v3.6.28",
+      "version": "2.0"
+    },
+    "modelSha256": "5835673a926d2cb5ce917a6be548ad8d719b71e40d44c1e1de15c4a6bf340b40",
+    "markerSha256": "fb076c576ee1ff195f5259dbc63677d0c2ebc63449b788f495f1e5498c71803c"
+  },
+  "spinosaurus": {
+    "center": [
+      7.393956099707721e-05,
+      0.9279330871833935,
+      -0.293579986880678
+    ],
+    "halfExtent": [
+      0.407187775790813,
+      0.9339317123083586,
+      2.151007516642866
+    ],
+    "vertices": 14103,
+    "triangles": 24212,
+    "animationCount": 1,
+    "asset": {
+      "generator": "Khronos glTF Blender I/O v4.5.49",
+      "version": "2.0"
+    },
+    "modelSha256": "e4e290d99b5570346c374c7d3ced649ac4b9b84b9ac805157ad8bd9dcb688534",
+    "markerSha256": "1559c93f8c6e8aac3d71e177e1e8813f4e69f8f2c1a849656629e57802e174c5"
+  },
+  "ankylosaurus": {
+    "center": [
+      1.5340331360746973e-07,
+      4.274723466350404,
+      -3.1202399410401833
+    ],
+    "halfExtent": [
+      4.563905114726483,
+      4.333166939323793,
+      12.244289308884131
+    ],
+    "vertices": 11865,
+    "triangles": 20214,
+    "animationCount": 1,
+    "asset": {
+      "generator": "Khronos glTF Blender I/O v3.6.28",
+      "version": "2.0"
+    },
+    "modelSha256": "2a14f9f4e97884c55b225a6eb6db1d7b1e4279af0dfa9c07a5d5b94f23b4edea",
+    "markerSha256": "c26dc23c7ab2d373ca6739c911dc2c789d8d54d00a0c34ed35cc62f2d9e4d012"
+  }
+}
